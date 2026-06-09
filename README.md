@@ -21,6 +21,10 @@ I enjoy turning ideas into real-world projects and improving my skills every day
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -35,25 +39,20 @@ I enjoy turning ideas into real-world projects and improving my skills every day
 
 ## 📊 GitHub Stats
 
-![Topu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![Topu's GitHub stats](https://github-readme-stats.vercel.app/api?username=topu9872-cpu&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topu9872-cpu&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
-
-- 🌍 Portfolio: https://topudev.vercel.app  
-- 💻 GitHub: https://github.com/YOUR-USERNAME  
-- 💼 LinkedIn: YOUR-LINKEDIN  
+![## 📊 Topu's GitHub stats](https://github-readme-stats.vercel.app/api?username=topu9872-cpu&show_icons=true&theme=tokyonight)
 
 
 ## 🌐 Connect With Me
