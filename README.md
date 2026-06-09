@@ -7,6 +7,7 @@ I build web applications using React, Next.js, Node.js, and MongoDB. I enjoy tur
 Right now, I’m focused on improving my backend skills, problem-solving ability, and building more real-world projects instead of just tutorials.
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer)
 
 ## 🧠 What I do
 
