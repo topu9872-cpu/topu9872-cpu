@@ -1,58 +1,62 @@
-# Hi 👋, I’m Topu
+# Hi, I'm Topu 👋
 
-I’m Mehedi Hasan Topu, a full-stack web developer from Bangladesh.
-
-I build web applications using React, Next.js, Node.js, and MongoDB. I enjoy turning ideas into real, working products that are simple, fast, and user-friendly.
-
-Right now, I’m focused on improving my backend skills, problem-solving ability, and building more real-world projects instead of just tutorials.
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
----
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Developer)
-
-## 🧠 What I do
-
-- Build full-stack web apps (MERN & Next.js)
-- Create clean and responsive UI
-- Design REST APIs with Node + Express
-- Work with MongoDB for database management
-- Learn new tools by building projects
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+MERN+Developer;React+Developer;Next.js+Developer;Building+Real+World+Web+Apps)
 
 ---
 
-## 🚀 Projects I’ve worked on
+## 🚀 About Me
+I am a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications using the MERN stack and Next.js.
 
-- Furniture E-commerce website (MERN Stack)
-- Doctor Appointment System (Next.js + Authentication)
-- Food Ordering API system (Express + MongoDB)
-- Personal Portfolio Website
-
-I try to keep my projects practical — something that feels real, not just practice work.
-
----
-
-## 📚 Currently learning
-
-- TypeScript
-- Advanced backend architecture
-- Authentication systems (Better Auth / JWT)
-- Improving problem-solving skills
-
----
-
-## 🎯 My goal
-
-I want to become a strong full-stack developer and work remotely with real teams where I can learn, grow, and build useful products.
+I enjoy turning ideas into real-world projects and improving my skills every day through consistent practice and problem solving.
 
 ---
 
 ## 🛠️ Tech Stack
 
-React • Next.js • Node.js • Express • MongoDB • Tailwind CSS • Firebase • Git & GitHub
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 💻 What I Do
+- 🔥 Build Full Stack MERN Applications  
+- 🎯 Create Responsive UI with React & Tailwind  
+- ⚙️ Develop REST APIs with Node & Express  
+- 🧠 Solve real-world problems with clean code  
+- 🚀 Continuously learn modern web technologies  
+
+---
+
+## 📊 GitHub Stats
+
+![Topu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
+- 🌍 Portfolio: https://topudev.vercel.app  
+- 💻 GitHub: https://github.com/YOUR-USERNAME  
+- 💼 LinkedIn: YOUR-LINKEDIN  
+
+
+## 🌐 Connect With Me
 
 - Portfolio:https://topudev.vercel.app
 - Email: topu9872@gmail.com
@@ -61,6 +65,7 @@ React • Next.js • Node.js • Express • MongoDB • Tailwind CSS • Fireb
 
 ---
 
+⭐ *Always learning, always building*
 > “I believe consistency beats talent. I just keep building and improving every day.”
 
 
