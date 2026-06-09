@@ -52,7 +52,7 @@ I enjoy turning ideas into real-world projects and improving my skills every day
 ## 🐍 Contribution Snake
 
 
-![## 📊 Topu's GitHub stats](https://github-readme-stats.vercel.app/api?username=topu9872-cpu&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 🌐 Connect With Me
