@@ -55,6 +55,7 @@ React • Next.js • Node.js • Express • MongoDB • Tailwind CSS • Fireb
 - Portfolio:https://topudev.vercel.app
 - Email: topu9872@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mehedi-hasan-topu
+- Resume:https://drive.google.com/file/d/1iEajlqqgcZRvwFoxPmCGitmZbnOipvtm/view?usp=sharing
 
 ---
 
