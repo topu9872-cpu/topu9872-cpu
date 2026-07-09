@@ -13,12 +13,11 @@
   />
 </p>
 
-## 🚀 About Me
-I am a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications using the MERN stack and Next.js.
+## About Me
 
-I enjoy turning ideas into real-world projects and improving my skills every day through consistent practice and problem solving.
+I'm a Full Stack Web Developer from Bangladesh who enjoys building modern, scalable, and user-focused web applications with **React, Next.js, Node.js, Express, MongoDB, and TypeScript**.
 
----
+I love turning ideas into real-world products, writing clean and maintainable code, and continuously improving my development and problem-solving skills. I'm always eager to learn new technologies and take on challenging projects that help me grow as a developer.
 
 ## 🛠️ Tech Stack
 
