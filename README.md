@@ -1,8 +1,17 @@
-# Hi, I'm Topu 👋
+<h1 align="center">
+  Hi, I'm Mehedi Hasan Topu
+</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+MERN+Developer;React+Developer;Next.js+Developer;Building+Real+World+Web+Apps)
+<h3 align="center">
+  Full Stack Web Developer from Bangladesh 🇧🇩
+</h3>
 
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
 ## 🚀 About Me
 I am a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications using the MERN stack and Next.js.
