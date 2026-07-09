@@ -124,31 +124,6 @@ Discover more full-stack applications, UI experiments, and open-source work on m
 </table>
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=topu9872-cpu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu9872-cpu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=topu9872-cpu&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-  />
-</p>
-
-
 ## 📊 Most Used Languages
 
 <p align="center">
