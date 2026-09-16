@@ -62,71 +62,79 @@ I love turning ideas into real-world products, writing clean and maintainable co
 - 📚 Always learning new technologies and exploring better ways to build high-quality web applications
 
 
-  ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 💼 Job Hunt — Job Portal Platform
+### 🛡️ ScamShield — AI Scam Detection
 
-A full-stack job portal that connects job seekers with employers. Features job search, filtering, applications, employer dashboards, and secure authentication.
+An AI-powered scam detection platform that analyzes URLs, emails, phone numbers, and text messages with trust scoring and secure authentication.
+
+**Tech Stack:** Next.js • TypeScript • Express.js • MongoDB • Better Auth • Gemini AI
+
+🌐 **Live:** https://scamshield-client.vercel.app
+
+📁 **Client:** https://github.com/topu9872-cpu/Scamshield-Client
+
+⚙️ **Server:** https://github.com/topu9872-cpu/Scamshield-Server
+
+</td>
+
+<td width="50%">
+
+### 🛍️ Novara — Modern E-Commerce
+
+A full-stack e-commerce application featuring Firebase authentication, Stripe payments, admin dashboard, cart, wishlist, and order management.
+
+**Tech Stack:** React • TypeScript • Firebase • Express.js • MongoDB • Stripe
+
+🌐 **Live:** https://novara-7b539.web.app
+
+📁 **Client & ⚙️ **Server:** https://github.com/topu9872-cpu/Novara-Client
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Course Management Platform
+
+A learning management system where students can enroll in courses, make secure payments, and access AI-powered learning features.
+
+**Tech Stack:** Next.js • TypeScript • Express.js • MongoDB • JWT • Stripe
+
+🌐 **Live:** https://course-management-platform-client.vercel.app
+
+📁 **Client:** https://github.com/topu9872-cpu/Course-Management-Client
+
+⚙️ **Server:** https://github.com/topu9872-cpu/Course-Management-Server
+
+</td>
+
+<td width="50%">
+
+### 💼 Job Hunt — Job Portal
+
+A job portal connecting job seekers and employers with job search, applications, employer dashboards, and secure authentication.
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
-🌐 **Live Demo:** https://job-hunt-client-side.vercel.app
+🌐 **Live:** https://job-hunt-client-side.vercel.app
 
 📁 **Client:** https://github.com/topu9872-cpu/Job-Hunt-Client-Side
 
 ⚙️ **Server:** https://github.com/topu9872-cpu/Job-Hunt-Server-Side
 
 </td>
-
-<td width="50%">
-
-### 🚀 StartupForge — Team Builder Platform
-
-A startup collaboration platform where founders can create startups, post opportunities, manage applications, and build high-performing teams.
-
-**Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • TanStack Query • JWT
-
-🌐 **Live Demo:** https://programming-hero-a-10-client-side.vercel.app
-
-📁 **Client:** https://github.com/topu9872-cpu/Startup-Team-Builder-Platform-Client-Side
-
-⚙️ **Server:** https://github.com/topu9872-cpu/Startup-Team-Builder-Platform-Server-Side
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🪑 Woodora Furniture
-
-A modern furniture e-commerce platform with authentication, protected routes, shopping features, and a responsive user experience.
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Better Auth • Tailwind CSS
-
-🌐 **Live Demo:** https://woodora-furniture-client-side.vercel.app
-
-📁 **Client:** https://github.com/topu9872-cpu/Woodora-Furniture-Client-Side
-
-⚙️ **Server:** https://github.com/topu9872-cpu/Woodora-Furniture-Server-Side-React
-
-</td>
-
-<td width="50%">
-
-### 👨‍💻 More Projects
-
-Discover more full-stack applications, UI experiments, and open-source work on my GitHub.
-
-➡️ **GitHub:** https://github.com/topu9872-cpu
-
-</td>
 </tr>
 </table>
+
+### 🔗 Explore More
+
+➡️ **GitHub:** https://github.com/topu9872-cpu
 
 ## 🌐 Connect With Me
 
