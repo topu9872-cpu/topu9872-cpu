@@ -1,23 +1,18 @@
-<h1 align="center">
-  Hi, I'm Mehedi Hasan Topu
-</h1>
+<h1 align="center">Mehedi Hasan Topu</h1>
 
-<h3 align="center">
-  Full Stack Web Developer from Bangladesh 🇧🇩
-</h3>
+<h3 align="center">Full Stack Web Developer | React • Next.js • TypeScript • Node.js</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Always+Learning+New+Technologies"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
-## About Me
+## 👋 About Me
 
-I'm a Full Stack Web Developer from Bangladesh who enjoys building modern, scalable, and user-focused web applications with **React, Next.js, Node.js, Express, MongoDB, and TypeScript**.
+I'm a **Full Stack Web Developer** from Bangladesh, passionate about building fast, scalable, and user-friendly web applications.
 
-I love turning ideas into real-world products, writing clean and maintainable code, and continuously improving my development and problem-solving skills. I'm always eager to learn new technologies and take on challenging projects that help me grow as a developer.
+My primary stack includes **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and Firebase**. I enjoy developing secure authentication systems, REST APIs, payment integrations, admin dashboards, and AI-powered features.
+
+I'm currently seeking **Junior Full Stack Developer** and **Web Developer** opportunities while continuously improving my problem-solving and software engineering skills.
 
 ## 🛠️ Tech Stack
 
