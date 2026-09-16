@@ -10,7 +10,7 @@
 
 I'm a **Full Stack Web Developer** from Bangladesh, passionate about building fast, scalable, and user-friendly web applications.
 
-My primary stack includes **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and Firebase**. I enjoy developing secure authentication systems, REST APIs, payment integrations, admin dashboards, and AI-powered features.
+My primary stack includes **React, Next.js, TypeScript, Node.js, Express.js, MongoDB,Mongoose and Firebase**. I enjoy developing secure authentication systems, REST APIs, payment integrations, admin dashboards, and AI-powered features.
 
 I'm currently seeking **Junior Full Stack Developer** and **Web Developer** opportunities while continuously improving my problem-solving and software engineering skills.
 
